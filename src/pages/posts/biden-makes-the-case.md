@@ -9,3 +9,5 @@ template: post
 ``[`https://www.youtube.com/watch?v=5dm8haP1MJc`](https://www.youtube.com/watch?v=5dm8haP1MJc)``
 
 <!--EndFragment-->
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/5dm8haP1MJc/0.jpg)](https://www.youtube.com/watch?v=5dm8haP1MJc "Video Title")
